@@ -1,0 +1,2 @@
+Line 1: This file was opened using open().
+Line 2: It will be closed using close().

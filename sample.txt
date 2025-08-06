@@ -1,0 +1,4 @@
+Hello, this is line 1.
+This is line 2.
+End of file content.
+This line was added using fstream.
